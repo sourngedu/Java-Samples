@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SwingFirstExample_browser.jnlp">
+  <information>
+    <title>SwingFirstExample</title>
+    <vendor>Sourng Edu</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SwingFirstExample.jar" size="1635" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="SwingFirstExample"  name="SwingFirstExample" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>
