@@ -15,6 +15,7 @@ public class DemoStaticVariable {
        VariableStatic obj2=new VariableStatic();
        
        obj1.x=10;
+      
        obj1.y=12;
        obj2.x=20;
        obj2.y=22;
