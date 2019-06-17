@@ -8,7 +8,7 @@ class Person{
     void DisplayPerson(int id,String name,float score){
         System.out.println(id +" - "+ name + " - "+ score);
         System.out.println(this.id+" - "+ name +" - "+ this.score);
-    }
+    } 
 }
 public class DemoThisClass {
     public static void main(String[] args) {
